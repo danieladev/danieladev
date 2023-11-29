@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/felippegeorge/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/daniela-c-7ab264280/?locale=en_US" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+
+
+
+
 ![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieladev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieladev)
 
-# 👋 Hi there
 
 - 👩‍💻 Full Stack Developer
 - 🎓 Systems Analysis and Development @ [IFSC]([https://portal.ufpel.edu.br/](https://www.ifsc.edu.br/web/campus-gaspar)
