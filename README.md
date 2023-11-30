@@ -6,8 +6,12 @@
 
 ## 🔧 Stats
   
-![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieladev)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieladev&layout=compact)
+<a href="https://github.com/danieladev">
+  <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=danieladev&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&layout=compact&)"/>
+</a>
+<a href="https://github.com/danieladev">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieladev&langs_count=8&layout=compact&hide_border=true&include_all_commits=true&count_private=true&)"/>
+</a>
   
 
 ## 💻 Tech Stack
