@@ -1,6 +1,6 @@
 ## 👋 About Me 
 
-- 👩‍💻 Full Stack Developer
+- 👩‍💻 Back-end Developer
 - 🎓 Systems Analysis and Development @ [IFSC](https://www.ifsc.edu.br/web/campus-gaspar/)
   
 
